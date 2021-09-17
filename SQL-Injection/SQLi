@@ -1,0 +1,5 @@
+                 SQL INJECTION DETECTION USING DEEP LEARNING
+SQL injection attack is a code inoculation method that allows the attackers to access the hidden details by manipulating the backend of the database. It results in leakage of personal data and also results in exploitation of data. It allows the attackers to skit identity, interfere with available data and even exploit the data.
+Here a method that uses ML techniques is proposed to determine the existence of SQL injection attacks. 
+ML classification algorithms are very efficient in detecting SQL injection attacks.
+                 
